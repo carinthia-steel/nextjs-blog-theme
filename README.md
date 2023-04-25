@@ -1,3 +1,4 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/0a7a7520-a374-4e9b-9a9b-abe03d4c49a0/deploy-status)](https://app.netlify.com/sites/mscj/deploys)
 ![Netlify Next.js Blog Template designed by Bejamas](https://user-images.githubusercontent.com/43764894/223762618-62742b4e-9424-44a7-8e85-9f7e4e19db54.png)
 
 
